@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Love me, Love you (ENSEMBLE Version)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-03T13:19:51.776494Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Me, Love You (Ensemble Version)",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_Love_Me,_Love_You_(Ensemble_Version)_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love me, Love you（ENSEMBLE version）",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_Love_me,_Love_you(ENSEMBLE_version)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love me, Love you - ENSEMBLE Version",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Love_me,_Love_you_-_ENSEMBLE_Version_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
